@@ -1,16 +1,10 @@
 # photo_card_hng
 
-A new Flutter project.
+This app represents my name on slack and github profile. It was a basic project in which i used flutter widgets to build the UI and imported packages are google_fonts for styling and flutter_inappwebview which was used to display the website in the app. 
+
+The website displayed is my github profile and the good thing is that you don't have to copy the link and paste in chrome to use because everything is handled in app. Though the url is also available.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
