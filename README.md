@@ -4,7 +4,6 @@ This app represents my name on slack and github profile. It was a basic project 
 
 The website displayed is my github profile and the good thing is that you don't have to copy the link and paste in chrome to use because everything is handled in app. Though the url is also available.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Check out project on appetize.
+Project preview: https://appetize.io/app/evadqi7oewf5ciystipgsn5bm4?device=pixel4&osVersion=11.0&scale=75
 
