@@ -37,6 +37,12 @@ class MainScreen extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               Text(
+                'Display Name: Onyeka',
+                textAlign: TextAlign.center,
+                style: appStyle(size: 16, fw: FontWeight.w600),
+              ),
+              const SizedBox(height: 10),
+              Text(
                 'https://github.com/Emmanuel-Onyeka',
                 textAlign: TextAlign.center,
                 style: appStyle(size: 16, fw: FontWeight.w500),

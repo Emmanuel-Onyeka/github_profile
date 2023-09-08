@@ -41,6 +41,10 @@ class _WebScreenState extends State<WebScreen> {
                   });
                 },
               ),
+              if (_progress < 1)
+                LinearProgressIndicator(
+                  value: _progress,
+                )
             ],
           ),
         ),
